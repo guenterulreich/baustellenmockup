@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1641505467577,
+  "timestamp": 1641505846083,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.12e1c561c4c9d5d3.js",
+        "/main.feeb77ffb1ea9465.js",
         "/manifest.webmanifest",
         "/polyfills.6e35de25bd4c4455.js",
         "/runtime.cf9e04ebc10bc9e0.js",
@@ -30,6 +30,8 @@
       "urls": [
         "/assets/Arrow.svg",
         "/assets/car.png",
+        "/assets/cruising.png",
+        "/assets/fast.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -40,8 +42,6 @@
         "/assets/icons/icon-96x96.png",
         "/assets/marker-icon.png",
         "/assets/marker-shadow.png",
-        "/assets/navmap_cruising.png",
-        "/assets/navmap_fast.png",
         "/assets/scss/functions.scss",
         "/assets/three-dots.svg",
         "/car.774686f8504d7cc4.png",
@@ -57,6 +57,8 @@
   "hashTable": {
     "/assets/Arrow.svg": "eab44008b1aa45540e33ad6f9262d41fd9b5ce35",
     "/assets/car.png": "d005f53b2fa07a6f0958614b3203cd4ac6546968",
+    "/assets/cruising.png": "ce33478847d8f0eb4a4ad20d2cf3d59143b197c0",
+    "/assets/fast.png": "84efb3e5d8938a747584e7dfad26ce9e8e332d4e",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -67,15 +69,13 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/marker-icon.png": "b0239023c23dfda13bb01702f664d2f554cde1b6",
     "/assets/marker-shadow.png": "1cf02184ee631aabed32e4c318cddff063f6ad08",
-    "/assets/navmap_cruising.png": "ce33478847d8f0eb4a4ad20d2cf3d59143b197c0",
-    "/assets/navmap_fast.png": "84efb3e5d8938a747584e7dfad26ce9e8e332d4e",
     "/assets/scss/functions.scss": "0a9acd2995a9c993107c89e75346cd9e9df4079c",
     "/assets/three-dots.svg": "72b963cb1bb5cf91fc5ca382b47128d893b16aca",
     "/car.774686f8504d7cc4.png": "d005f53b2fa07a6f0958614b3203cd4ac6546968",
-    "/index.html": "df44a00287f4916b8ab997a856fc95ece7841c62",
+    "/index.html": "e31b4ce0fcb74b709ceaa435004f3450770e7b35",
     "/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-    "/main.12e1c561c4c9d5d3.js": "a54d7ead042f65a2c1b170bdd47524d806754ded",
+    "/main.feeb77ffb1ea9465.js": "3052dcce68487a665ec08931032ca1e32f2d9fd5",
     "/manifest.webmanifest": "50c89cc1b9c81851209b80e31a122271bb40ec6f",
     "/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "/polyfills.6e35de25bd4c4455.js": "0eaf18470b59cbb24be224b84979297826981f71",
