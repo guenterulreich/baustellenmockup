@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1641501109180,
+  "timestamp": 1641501175634,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
         "/index.html",
         "/main.21d3a40e48b09a1d.js",
         "/manifest.webmanifest",
@@ -73,7 +72,6 @@
     "/assets/scss/functions.scss": "0a9acd2995a9c993107c89e75346cd9e9df4079c",
     "/assets/three-dots.svg": "72b963cb1bb5cf91fc5ca382b47128d893b16aca",
     "/car.774686f8504d7cc4.png": "d005f53b2fa07a6f0958614b3203cd4ac6546968",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/index.html": "6d19db72201c2d30512ac97c88e4702b8215a391",
     "/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
